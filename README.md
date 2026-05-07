@@ -1,4 +1,4 @@
-# TSP Metaheuristics: ACO vs. Simulated Annealing 🗺️
+# TSP Metaheuristics: ACO vs. Simulated Annealing
 
 ## Project Overview
 This repository contains a comparative study of two metaheuristic algorithms—Ant Colony Optimization (ACO) and Simulated Annealing (SA)—implemented to solve the metric Traveling Salesman Problem (TSP). This project explores the practical trade-offs between exploration, solution quality, and scalability in heuristic optimization.
